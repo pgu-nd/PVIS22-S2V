@@ -22,3 +22,6 @@ This repository contains the PyTorch implementation for paper "Scalar2Vec: Trans
   year={2022},<br/>
   organization={IEEE}<br/>
 }
+
+# Acknowledgements
+This research was supported in part by the U.S. National Science Foundation through grants IIS-1455886, CNS-1629914, DUE-1833129, IIS-1955395, IIS-2101696, and OAC-2104158.
